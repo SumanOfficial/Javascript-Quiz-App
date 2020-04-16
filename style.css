@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif !important;
+  background-color: #28262c;
+  color: #f9f5ff;
+}
+
+#quiz {
+  margin-top: 150px;
+}
+.buttons {
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 375px) {
+  #quiz {
+    margin-top: 170px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  #quiz {
+    margin-top: 200px;
+  }
+}
